@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on open source project
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-- 📫 How to reach me: twitter (http://twitter.com/simply_meenat)
+- 📫 Follow me on [Twitter](http://twitter.com/simply_meenat)
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love spaghetti, I mean who doesn't
 
