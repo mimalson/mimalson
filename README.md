@@ -34,7 +34,7 @@
 
 <p float="left">
   <a href="https://figma.com/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/grafana.gif"  height="90" />
+    <img src="https://github.com/mimalson/mimalson/blob/main/figma_4.gif"  height="90" />
   </a>
 
   <a href="https://www.adobe.com/" target="_blank" >
