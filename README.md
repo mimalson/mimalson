@@ -30,6 +30,22 @@
   </a>
 </p>
 
+### Design Tools
+
+<p float="left">
+  <a href="https://figma.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/grafana.gif"  height="90" />
+  </a>
+
+  <a href="https://www.adobe.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/influx.gif"  height="90"/>
+  </a>
+
+  <a href="https://www.rabbitmq.com/" target="_blank" >
+    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/rabbitmq.png"  height="90" width="90"/>
+  </a>
+</p>
+
 
 
 
