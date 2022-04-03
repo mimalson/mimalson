@@ -11,13 +11,15 @@
 
 ## My Github Stats :computer:
 
+![Amina Github Stats](https://github-readme-stats.vercel.app/api?username=mimalson&show_icons=true_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
 ![GIF-220402_131947](https://user-images.githubusercontent.com/87755052/161383768-0ae94591-26d7-48e5-94c8-0e51a52b5a57.gif)
 
 
 
 
 
-[![Amina's github stats](https://github-readme-stats.vercel.app/api?username=mimalson)](https://github.com/mimalson/github-readme-stats)
+[![ github stats](https://github-readme-stats.vercel.app/api?username=mimalson)](https://github.com/mimalson/github-readme-stats)
 
 
 
