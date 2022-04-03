@@ -19,7 +19,7 @@
 
 
 
-[![ github stats](https://github-readme-stats.vercel.app/api?username=mimalson)](https://github.com/mimalson/github-readme-stats)
+
 
 
 
