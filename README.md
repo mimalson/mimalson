@@ -7,8 +7,10 @@
 -  I am a Frontend and Javascript enthusiast, I like to call myself Frontend designer
 - 👯 I am willing to work on free-lance projects and love to  contribute to open source projects :bulb:
 - ⚡ Fun fact: I love spaghetti, I mean who doesn't
-- 📫 Follow me on [Twitter](http://twitter.com/simply_meenat) let's connect  :sparkler:
-- 
+- 📫 Follow me on [Twitter](http://twitter.com/simply_meenat) let's connect  🎇
+
+## My Github Stats :computer:
+
 ![GIF-220402_131947](https://user-images.githubusercontent.com/87755052/161383768-0ae94591-26d7-48e5-94c8-0e51a52b5a57.gif)
 
 
