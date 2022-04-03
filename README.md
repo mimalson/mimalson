@@ -25,8 +25,8 @@
     <img src="https://github.com/mimalson/mimalson/blob/main/React-Components-For-The-Web-Animations-API.gif" height="90" />
   </a>
 
-  <a href="https://python.org/" target="_blank" >
-    <img src="https://raw.githubusercontent.com/DiptoChakrabarty/DiptoChakrabarty/master/assets/python3.gif"  height="90" />
+  <a href="https://node.js/" target="_blank" >
+    <img src="https://github.com/mimalson/mimalson/blob/main/nodejs-png.png"  height="90" />
   </a>
 </p>
 
