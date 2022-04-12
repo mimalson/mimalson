@@ -21,7 +21,7 @@
 
 
 <div align="center">
-  <img src="" width="35%" alt="Khadeeejah" />
+  <img src="https://github.com/mimalson/mimalson/blob/main/MAKEUP_2022020515072926~2.jpg" width="35%" alt="Khadeeejah" />
 
   <br />
 ## My Github Stats :computer:
