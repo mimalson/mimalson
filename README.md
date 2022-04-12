@@ -5,7 +5,6 @@
   </a>
 </h1>
 
-
 * I am Muhammed Amina :blush:	 
 - 🔭  I’m currently working on my portfolio website, writing more articles and staying fit
 - 🌱 I’m learning Javascript,  and Rust at the moment
