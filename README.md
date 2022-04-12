@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,YO!👋;I'm+Amina...;Welcome+to+my+Hub!&center=true&size=40&">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,YO!👋;I'm+Amina...;WWelcome+to+my+Hub!&center=true&size=40&">
   </a>
 </h1>
 
@@ -29,20 +29,15 @@
 
 ![GIF-220402_131947](https://user-images.githubusercontent.com/87755052/161383768-0ae94591-26d7-48e5-94c8-0e51a52b5a57.gif)
 
-## Tech Stack :computer:
 
+## 💻 Technologies I Work With
 
-### Programming Languages
-
-<p float="left">
-  <a href="https://react.js/" target="_blank" >
-    <img src="https://github.com/mimalson/mimalson/blob/main/React-Components-For-The-Web-Animations-API.gif" height="90" />
-  </a>
-
-  <a href="https://node.js/" target="_blank" >
-    <img src="https://github.com/mimalson/mimalson/blob/main/nodejs-png.png"  height="90" />
-  </a>
-</p>
+![MaterialUi](https://img.shields.io/badge/Material-UI-3776AB?style=for-the-badge&logo=material-ui&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Design Tools
 
