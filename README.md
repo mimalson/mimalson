@@ -13,7 +13,7 @@
 - 🤔 Open to a fullt-time  Role
 - 💬 Ask me about : Technical writing and frontend development
 - ⚡ Fun fact: I love spaghetti, I mean who doesn't
--  🤟  Hobbies: Playing Video games, and shopping
+-  🤟  Hobbies: Watching movies and shopping
 - 📫 Follow me on [Twitter](http://twitter.com/simply_meenat) let's connect  🎇
 
 
