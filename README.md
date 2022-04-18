@@ -8,7 +8,7 @@
 
 * I am Muhammed Amina :blush:	 
 - 🔭  I’m currently working on my portfolio website, writing more articles and staying fit
-- 🌱 I’m learning Javascript,  and Rust at the moment
+- 🌱 I’m learning Javascript,  and React at the moment
 - 👯 I’m looking to collaborate on open source projects :bulb:
 - 🤔 Open to a fullt-time  Role
 - 💬 Ask me about : Technical writing and frontend development
