@@ -16,10 +16,6 @@
 -  🤟  Hobbies: Watching movies and shopping
 - 📫 Follow me on [Twitter](http://twitter.com/simply_meenat) let's connect  🎇
 
-
-
-
-
 <div align="center">
   <img src="https://github.com/mimalson/mimalson/blob/main/MAKEUP_2022020515072926~2.jpg" width="35%" alt="Khadeeejah" />
 
